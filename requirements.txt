@@ -1,1 +1,14 @@
 plotly
+plotly
+scikit-learn
+numpy
+pandas
+streamlit
+plotly
+scikit-learn
+numpy
+pandas
+streamlit
+imbalanced-learn
+tensorflow
+keras
