@@ -4,5 +4,5 @@ numpy
 pandas
 streamlit
 imbalanced-learn
-tensorflow==2.12.0
-protobuf==3.20.3
+tensorflow
+protobuf>=5.28.0
